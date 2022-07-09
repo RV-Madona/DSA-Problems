@@ -23,7 +23,9 @@ CONTENT OF THIS REPOSITORY:
 
 5.Binary Tree
 
-4.Dynammic programming
+6.Dynammic programming
+
+
 ==========================================================
 
 
